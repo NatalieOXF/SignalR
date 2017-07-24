@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/aspnet/SignalR#readme",
   "devDependencies": {
+    "@types/node": "^8.0.15",
     "browserify": "^13.1.1",
     "del": "^2.2.2",
     "gulp": "^3.9.1",
